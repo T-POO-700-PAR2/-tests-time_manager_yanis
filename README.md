@@ -1,2 +1,2 @@
-# -tests-time_manager_yanis
+#[tests] time_manager_yanis
 Ceci est un répo de tests. 
